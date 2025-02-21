@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @groupthinking
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ... CREATE $
-- 💞️ I’m looking to collaborate on ... BUILDING 
+👋 Hi, I’m @GT
+ I’m interested in ...AI
+ I’m currently learning 
+ I’m looking to collaborate on ... BUILDING 
 
 
 <!---
