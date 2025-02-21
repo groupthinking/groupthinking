@@ -1,7 +1,6 @@
 👋 Hi, I’m @GT
  I’m interested in ...AI
- I’m currently learning 
- I’m looking to collaborate on ... BUILDING 
+ I’m currently obessed with learning, and I'm looking for a mentor to help me on my voyage  ...  
 
 
 <!---
